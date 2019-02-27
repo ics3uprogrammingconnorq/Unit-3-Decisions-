@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Unit 3 (Decisions)\GuessingGameConnorQ\GuessingGameConnorQ\bin\Debug\GuessingGameConnorQ.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Unit 3 (Decisions)\GuessingGameConnorQ\GuessingGameConnorQ\bin\Debug\GuessingGameConnorQ.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Unit 3 (Decisions)\GuessingGameConnorQ\GuessingGameConnorQ\bin\Debug\GuessingGameConnorQ.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Unit 3 (Decisions)\GuessingGameConnorQ\GuessingGameConnorQ\obj\Debug\GuessingGameConnorQ.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Unit 3 (Decisions)\GuessingGameConnorQ\GuessingGameConnorQ\obj\Debug\GuessingGameConnorQ.frmGuessingGame.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Unit 3 (Decisions)\GuessingGameConnorQ\GuessingGameConnorQ\obj\Debug\GuessingGameConnorQ.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Unit 3 (Decisions)\GuessingGameConnorQ\GuessingGameConnorQ\obj\Debug\GuessingGameConnorQ.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Unit 3 (Decisions)\GuessingGameConnorQ\GuessingGameConnorQ\obj\Debug\GuessingGameConnorQ.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Unit 3 (Decisions)\GuessingGameConnorQ\GuessingGameConnorQ\obj\Debug\GuessingGameConnorQ.pdb
