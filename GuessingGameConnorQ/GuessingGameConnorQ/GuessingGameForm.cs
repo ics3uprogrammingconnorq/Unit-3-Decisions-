@@ -21,14 +21,18 @@ namespace GuessingGameConnorQ
 {
     public partial class frmGuessingGame : Form
     {
-
-        const int NUMBER = 4;
+        // Inicialize values
+        int number = 0;
         int guessNumber;
-        SoundPlayer correct;
+        const int MIN = 1;
+        const int MAX = 10;
+        Random randomNumberGenerator = new Random();
 
         public frmGuessingGame()
         {
             InitializeComponent();
+            // Generate random number
+            number = randomNumberGenerator.Next(MIN, MAX);
         }
 
         private void frmGuessingGame_Load(object sender, EventArgs e)
@@ -42,19 +46,29 @@ namespace GuessingGameConnorQ
             lblCorrect.Visible = false;
             lblWrong.Visible = false;
 
-            if (guessNumber == NUMBER)
+            // If they guess correctly
+            if (guessNumber == number)
             {
+                // Change Image
                 this.picCheckX.Image = Properties.Resources.checkmark;
+                // Make indicators visible
                 picCheckX.Visible = true;
                 lblCorrect.Visible = true;
-                correct.SoundLocation = "N:/StuShare/Semester 2 - Winter 2019/ICS3U Programming/Quinlan, Connor (s280204)/Unit 3 (Decisions)/GuessingGameConnorQ/Sounds/Correct Answer Sound Effect.mp3";
+                // Play Sound
+                SoundPlayer correct = new SoundPlayer(@"nice-work.wav");
                 correct.Play();
             }
+            // If they guess incorrectly
             else
             {
+                // Change Image
                 this.picCheckX.Image = Properties.Resources.red_x;
+                // Make indicators visible
                 picCheckX.Visible = true;
                 lblWrong.Visible = true;
+                // Play Sound
+                SoundPlayer incorrect = new SoundPlayer(@"maybe-next-time.wav");
+                incorrect.Play();
             }
 
         }
