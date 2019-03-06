@@ -15,6 +15,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Media;
 
 namespace GuessingGameConnorQ
 {
@@ -23,6 +24,7 @@ namespace GuessingGameConnorQ
 
         const int NUMBER = 4;
         int guessNumber;
+        SoundPlayer correct;
 
         public frmGuessingGame()
         {
@@ -45,6 +47,8 @@ namespace GuessingGameConnorQ
                 this.picCheckX.Image = Properties.Resources.checkmark;
                 picCheckX.Visible = true;
                 lblCorrect.Visible = true;
+                correct.SoundLocation = "N:/StuShare/Semester 2 - Winter 2019/ICS3U Programming/Quinlan, Connor (s280204)/Unit 3 (Decisions)/GuessingGameConnorQ/Sounds/Correct Answer Sound Effect.mp3";
+                correct.Play();
             }
             else
             {
