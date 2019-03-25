@@ -1,9 +1,9 @@
 ﻿/*
  * Created by: Connor Quinlan
- * Created on: Day-Month-Year
+ * Created on: 19-03-2019
  * Created for: ICS3U Programming
  * Daily Assignment – Day #19 - Chocolate Boxes
- * This program...
+ * This program takes the amount of boxes sold by the user and gives them a prize based on the that number.
 */
 
 using System;
@@ -34,7 +34,7 @@ namespace ChocolateBoxesConnorQ
 
             if (boxesSold > 20)
             {
-                lblPrize.Text = "Prize!";
+                lblPrize.Text = "Grand Prize!";
             }
             else
             {
