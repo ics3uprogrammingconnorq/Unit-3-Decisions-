@@ -7,3 +7,12 @@ N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)
 N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Unit 3 (Decisions)\GuessingGameConnorQ\GuessingGameConnorQ\obj\Debug\GuessingGameConnorQ.csproj.GenerateResource.Cache
 N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Unit 3 (Decisions)\GuessingGameConnorQ\GuessingGameConnorQ\obj\Debug\GuessingGameConnorQ.exe
 N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Quinlan, Connor (s280204)\Unit 3 (Decisions)\GuessingGameConnorQ\GuessingGameConnorQ\obj\Debug\GuessingGameConnorQ.pdb
+E:\C# Visual Studio\Daily\Unit-3-Decisions-\GuessingGameConnorQ\GuessingGameConnorQ\bin\Debug\GuessingGameConnorQ.exe.config
+E:\C# Visual Studio\Daily\Unit-3-Decisions-\GuessingGameConnorQ\GuessingGameConnorQ\bin\Debug\GuessingGameConnorQ.exe
+E:\C# Visual Studio\Daily\Unit-3-Decisions-\GuessingGameConnorQ\GuessingGameConnorQ\bin\Debug\GuessingGameConnorQ.pdb
+E:\C# Visual Studio\Daily\Unit-3-Decisions-\GuessingGameConnorQ\GuessingGameConnorQ\obj\Debug\GuessingGameConnorQ.frmGuessingGame.resources
+E:\C# Visual Studio\Daily\Unit-3-Decisions-\GuessingGameConnorQ\GuessingGameConnorQ\obj\Debug\GuessingGameConnorQ.Properties.Resources.resources
+E:\C# Visual Studio\Daily\Unit-3-Decisions-\GuessingGameConnorQ\GuessingGameConnorQ\obj\Debug\GuessingGameConnorQ.csproj.GenerateResource.cache
+E:\C# Visual Studio\Daily\Unit-3-Decisions-\GuessingGameConnorQ\GuessingGameConnorQ\obj\Debug\GuessingGameConnorQ.csproj.CoreCompileInputs.cache
+E:\C# Visual Studio\Daily\Unit-3-Decisions-\GuessingGameConnorQ\GuessingGameConnorQ\obj\Debug\GuessingGameConnorQ.exe
+E:\C# Visual Studio\Daily\Unit-3-Decisions-\GuessingGameConnorQ\GuessingGameConnorQ\obj\Debug\GuessingGameConnorQ.pdb
