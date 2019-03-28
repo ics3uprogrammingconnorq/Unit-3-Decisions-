@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * Created by: Connor Quinlan
+ * Created on: 28-03-2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #21 - Walking Man
+ * This program displays a man walking when the button is pressed.
+*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
