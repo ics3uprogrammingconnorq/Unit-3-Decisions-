@@ -1,4 +1,13 @@
-﻿using System;
+﻿/*
+ * Created by: Connor Quinlan
+ * Created on: 04-04-2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #25 - Control Objects
+ * This program changes the colours of objects.
+*/
+
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -26,7 +35,6 @@ namespace ControlObjectsConnorQ
 
                 if (aControlObject.GetType() == typeof(Label))
                 {
-                    Thread.Sleep(200);
                     aControlObject.BackColor = Color.Orange;
                 }
             }
